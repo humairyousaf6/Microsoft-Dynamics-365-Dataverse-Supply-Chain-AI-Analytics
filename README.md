@@ -107,5 +107,5 @@ No permission is granted to reuse, redistribute, reverse engineer, or represent 
 
 ## Author
 
-**Humair Yousaf**  
+**Muhammad Humair**  
 GitHub: [@humairyousaf6](https://github.com/humairyousaf6)
